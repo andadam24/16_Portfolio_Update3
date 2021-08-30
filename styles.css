@@ -111,7 +111,7 @@ header {
   display: flex;
 }
 
-@media screen and (max-width: 1016px) {
+@media screen and (max-width: 1024px) {
   header, body,.container, .proj-container, .about-me-section, .img-container {
      flex-direction: column;
   }
